@@ -36,7 +36,7 @@ public static void main(String[] args){
 							falsecount++;
 							if(print){
 								printPerm(sigma,pi);
-								System.out.println(" : mob = " + mob + " : occ = " + occ);
+								System.out.println(" : mob = " + mob + " : NE = " + occ);
 							}
 						}
 						else truecount++;
