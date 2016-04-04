@@ -2,7 +2,7 @@
 Contains programs for computing the Mobius function of the permutation poset.
 See http://arxiv.org/abs/1506.04406 for an overview of the theory behind the programs.
 
-Both mob.java and mobLoop.java are stand alone files that can be compiles with javac mob.java and javac mobLoop.java.
+Both mob.java and mobLoop.java are stand alone files that can be compiled with javac mob.java and javac mobLoop.java.
 
 mob.java computes the mobius function and associated information of an interval [sigma,pi] and is called with two inputs: sigma and pi.
 For example:
